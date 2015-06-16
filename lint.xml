@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="HandlerLeak">
+        <ignore path="src/com/d/activity/HomeActivity.java" />
+    </issue>
+    <issue id="NewApi">
+        <ignore path="src/com/d/activity/NormalActivity.java" />
+        <ignore path="src/com/d/fragment/HomePageFragment.java" />
+        <ignore path="src/com/d/fragment/MeFragment.java" />
+        <ignore path="src/com/d/fragment/ReportFragment.java" />
+    </issue>
+</lint>

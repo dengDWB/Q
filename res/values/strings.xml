@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Q</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="tvName">姓  名:</string>
+    <string name="TvName">姓  名:</string>
+    <string name="TvCard">身份证号:</string>
+    <string name="TvRegister">注册</string>
+    <string name="TvPhone">手机号:</string>
+    <string name="TvPassword">密码:</string>
+    <string name="TvForgetPassword">忘记密码？</string>
+    <string name="LogIn">登入</string>
+    <string name="TvHome">首页</string>
+    <string name="TvMy">我的</string>
+    <string name="TvDynamic">环保动态</string>
+    <string name="TvNews">环保新闻</string>
+    <string name="WeatherInfo">天气信息</string>
+    <string name="TvTips">环保贴士</string>
+    <string name="TvCancel">取消</string>
+    <string name="TvTheme">主题：</string>
+    <string name="TvContent">内容：</string>
+    <string name="EtName">名字</string>
+    <string name="EtPhone">手机号</string>
+    <string name="EtPassword">密码</string>
+    <string name="TvChange">切换</string>
+    <string name="btnUpload">上传</string>
+    <string name="tvRadition">辐射污染</string>
+
+</resources>
